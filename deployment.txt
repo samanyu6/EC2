@@ -9,6 +9,7 @@ sudo apt-get install nodejs
 sudo apt-get install npm    
 npm i -g nodemon    
 npm i -g yarn
+npm i -g node-sass-chokidar 
 
 #Setup nginx ------------------------------------------------------------------------------------------------
 sudo apt-get install nginx
